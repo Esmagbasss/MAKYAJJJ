@@ -1,0 +1,30 @@
+.body{
+    padding-top: 50px;
+    
+}
+
+.hakkimizda{
+   background-color:lightpink;
+}
+
+.ekibimiz{
+    
+    background-color: lightyellow;
+}
+
+.galeri{
+    height: 500px;
+    background-color: lightpink;
+}
+
+.iletisim{
+    background-color: lightyellow;
+}
+
+.footer{
+    background-color: blue;
+}
+
+.resimSlider{
+    height: 450px;
+}
